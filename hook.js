@@ -1,7 +1,7 @@
 const HOOK_MODULES = ['UFICentralUpdates', 'UFIFeedbackTargets'];
 const UPDATE_FEEDBACK_EVENT = 'update-feedback';
 const DEFAULT_SUPPORTED_REACTIONS_COUNT = 6;
-const REACTION_TYPE_ID_THANKFUL = 11;
+const REACTION_TYPE_ID_THANKFUL = 16;
 
 hookFacebookReactions();
 
